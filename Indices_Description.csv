@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Stock Index,Ticker Symbol,Currency,Description
+=======
+Stock Index,Ticker Symbol,Currency,Description
+>>>>>>> c05d7ad7c239a5c64ca8c3e6b4cee6ffcb645824
 S&P 500,^GSPC,USD,"A market-capitalization-weighted index of 500 leading publicly traded companies in the U.S., representing various sectors of the economy."
 Dow Jones Industrial Average,^DJI,USD,"A price-weighted index of 30 large, publicly traded companies in the U.S., representing various industries."
 NASDAQ Composite,^IXIC,USD,"A market-capitalization-weighted index of all common stocks listed on the NASDAQ stock exchange, primarily consisting of technology and biotechnology companies."
